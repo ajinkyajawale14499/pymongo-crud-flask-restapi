@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5edfd1f7974ae9943687fe22"
+  },
+  "name": "john1",
+  "email": "john1@gmail.com",
+  "pwd": "pbkdf2:sha256:150000$bjOyCtvd$22dfd2e552b8014466806cf04efea8240b09bbdbb45312c7636856c8bbe58218"
+},{
+  "_id": {
+    "$oid": "5edfd210974ae9943687fe23"
+  },
+  "name": "seira",
+  "email": "seira@gmail.com",
+  "pwd": "pbkdf2:sha256:150000$izwAZ2lt$cc7d1d73dc008b14eac404fe447ce942baa791f463992b4ffe1523982bc2c4f2"
+},{
+  "_id": {
+    "$oid": "5edfd217974ae9943687fe24"
+  },
+  "name": "seira",
+  "email": "seira@gmail.com",
+  "pwd": "pbkdf2:sha256:150000$XfDFLqss$532b76924c8ec5c669f3ba6e91381f0b223e62bf43b666ce076aac6ac477396f"
+}]
